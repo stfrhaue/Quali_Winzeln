@@ -1,0 +1,45 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="002_AP3_SULGEN" id="0" comment="" altitude="762.0">
+      <Location longitude="8.4144333" latitude="48.2182833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="058_KIRNBERGSEE" id="0" comment="" altitude="796.0">
+      <Location longitude="8.3651667" latitude="47.9294833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="028_EICHSTAETT" id="0" comment="" altitude="396.0">
+      <Location longitude="11.1836167" latitude="48.89195"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="018_BLAUFELDEN" id="0" comment="" altitude="465.0">
+      <Location longitude="9.9677833" latitude="49.2963833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="008_AMSTETTEN" id="0" comment="" altitude="584.0">
+      <Location longitude="9.8722167" latitude="48.5788833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="077_PLETTENBERG" id="0" comment="" altitude="985.0">
+      <Location longitude="8.8152833" latitude="48.2177833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="000_EDTW" id="0" comment="" altitude="672.0">
+      <Location longitude="8.4291667" latitude="48.2791667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
+  </Point>
+</Task>
+
