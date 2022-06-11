@@ -1,0 +1,33 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="000_EDTW" id="0" comment="" altitude="672.0">
+      <Location longitude="8.4291667" latitude="48.2791667"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="058_KIRNBERGSEE" id="0" comment="" altitude="796.0">
+      <Location longitude="8.3651667" latitude="47.9294833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="228_Regensburg O" id="0" comment="" altitude="389.0">
+      <Location longitude="12.08195" latitude="49.1413833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="183_Klippeneck" id="0" comment="" altitude="977.0">
+      <Location longitude="8.7538833" latitude="48.1058333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="000_EDTW" id="0" comment="" altitude="672.0">
+      <Location longitude="8.4291667" latitude="48.2791667"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
