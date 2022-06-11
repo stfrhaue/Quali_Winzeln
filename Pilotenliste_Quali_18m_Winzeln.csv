@@ -1,9 +1,7 @@
 ID,CALL,CN,TYPE,HANDICAP,NAME
 3ED364,D-KVAA,AA,ASH 31 Mi 18,1,Andrea Abt
-D00F62,D-KYXM,XM,Ventus 3M,1,Heiko Braden
 DDF0FE,D-KHLG,LG,JS3 18,1,Tobias Breithaupt
 DF0C18,D-KKYY,IY4,Ventus 3T,1,Sascha Costabel
-XXXXXX,D-KKYY,NA,NA,1,Johannes Dibbern
 D00725,D-KXTO,TO,JS3 18,1,Tomasz Dul
 DFOA99,D-KBWS,WS,ASH 26 E,1,Nadja Eisenmenger
 4B501C,HB-2933,F,AS 33 Es,1,Rolf Friedli
@@ -15,7 +13,6 @@ DDEADD,D-KTSS,DB,Ventus 2cxT,1,Joachim Koch
 DF0E01,D-KXHB,HB,ASG 29 Es,1,Bernd Krimmer
 XXXXXX,D-KAXZ,LX,JS3 18,1,Tobias Ladenburger
 D00CAF,D-KGQU,C,LAK 17 cfes,1,Timo Lehrke
-DDA9FB,D-KTDM,DM,Ventus 2cm 18m,1,Alexander Maier
 XXXXXX,XXXXX,NA,NA,1,Christian Maex
 XXXXXX,D-KMFA,FA,Ventus 3M,1,Stephan Mayer
 XXXXXX,D-KBJT,JT,Ventus 2cxa FES,1,Bernhard Nacke
@@ -23,7 +20,7 @@ XXXXXX,D-KBJT,JT,Ventus 2cxa FES,1,Bernhard Nacke
 DFB0B36,D-KTAK,K,ASG 29 e,1,David Niedzielski
 DDF0DD,D-KGLI,JS3,JS3 18,1,Carsten Portmann
 DDED65,D-KJSC,WJ,JS1c 18,1,Nils Prokisch
-D01C81,D-KBTL,TL,Ventus 2cxM,1,Rainer Rauch
+D01C81,D-KWHK,K1,Ventus 3T,1,Rainer Rauch
 3E6468,D-KDFK,AC,ASH 26 E,1,Juergen Rusch
 XXXXXX,XXXXX,NA,NA,1,Jan-Hinnerk Scheel
 3E60D0,D-KBWA,VM,Ventus 2cxM,1,Michael Schlaich
