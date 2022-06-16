@@ -1,0 +1,33 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="002_AP3_SULGEN" id="0" comment="" altitude="762.0">
+      <Location longitude="8.4144333" latitude="48.2182833"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="073_NEUSTADT" id="0" comment="" altitude="880.0">
+      <Location longitude="8.2409167" latitude="47.89965"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="092_ULM_WEST" id="0" comment="" altitude="595.0">
+      <Location longitude="9.96155" latitude="48.4560333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="35000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="256_Titisee Turm" id="0" comment="" altitude="1189.0">
+      <Location longitude="8.18445" latitude="47.9011167"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="000_EDTW" id="0" comment="" altitude="672.0">
+      <Location longitude="8.4291667" latitude="48.2791667"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
+  </Point>
+</Task>
+
